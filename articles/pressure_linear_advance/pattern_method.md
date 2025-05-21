@@ -59,7 +59,7 @@ In this example, I would choose around 0.04 (in green).
 I find I get the best real prints when I lean toward **higher** values.
 
 - For example - if your sharpest corner has a _tiny_ bit of gapping, I'd still personally choose it.\
-  _(And then I'd just cover up the slight gapping with single top perimeters - which is unfortunately exclusive to SuperSlicer.)_
+  _(And then I'd just cover up the slight gapping with single top perimeters - which is unfortunately exclusive to SuperSlicer and PrusaSlicer.)_
 
 - The sharpness of these corners has a large effect on the outer surface or prints, particularly surrounding features like logos, text, slots, etc.
 
