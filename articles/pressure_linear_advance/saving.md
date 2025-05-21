@@ -43,6 +43,7 @@ grand_parent: Tuning
 - You can save a permanent default to the firmware by modifying Configuration_adv.h and reflashing the firmware. Instructions in the "Saving the K-Factor in the Firmware" section [:page_facing_up: here](https://marlinfw.org/docs/features/lin_advance.html).
 
 - In **Cura**, you can set it during slicing using [:page_facing_up: this plugin.](https://github.com/fieldOfView/Cura-LinearAdvanceSettingPlugin)
+- In **PS**, you can set it during slicing using [:page_facing_up: this guide.](https://help.prusa3d.com/article/linear-advance_2252)
 
 ---
 
